@@ -23,9 +23,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="MusicPlayer"
-              description="Personalised music application were you you add your favorite songs and listen offline"
-              ghLink="https://github.com/AshrafDesai/MusicPlayer"
+              title="Chat-Appications"
+              description="This is a simple chat application built using React.js. Users can join different chat rooms, send messages, and interact with others in real-time."
+              ghLink="https://github.com/AshrafDesai/Chat-Application.git "
               
             />
           </Col>
@@ -34,9 +34,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Amazon Clone"
-              description="Basic and begineer level project of Amazon clone by simply using HTML,CSS and Javascript"
-              ghLink="https://github.com/AshrafDesai/Amazon.comClone"
+              title="Business-Website"
+              description="This website is designed to showcase the products and services offered by a local grocery shop. It provides a user-friendly interface for customers to explore, choose products, and place orders."
+              ghLink="https://github.com/AshrafDesai/Enterprises.git"
               
             />
           </Col>
@@ -45,9 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Credit Card Validator"
-              description="Simple and algorithm based credit card validator which simple checks the authenticity of the credit card built using Luhn's Algorith"
-              ghLink="https://github.com/AshrafDesai/CreditCardValidator"              
+              title="OtpVerificationSystem"
+              description="This is a simple Flask web application that demonstrates OTP (One-Time Password) verification using Twilio."
+              ghLink="https://github.com/AshrafDesai/OtpSystem.git"              
             />
           </Col>
 
