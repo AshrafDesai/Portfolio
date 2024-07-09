@@ -51,5 +51,16 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
+  },
+  "description": "![image](https://github.com/AshrafDesai/Portfolio/assets/132386307/c15d351f-e2cc-4ac1-8256-59eef8f9e43b)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshrafDesai/Portfolio.git"
+  },
+  "author": "Ashraf | Portfolio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshrafDesai/Portfolio/issues"
   }
 }
