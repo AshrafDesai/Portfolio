@@ -54,3 +54,10 @@ Email: ashrafdesai6598@gmail.com
 LinkedIn: https://www.linkedin.com/in/ashrafdesai/
 GitHub: https://github.com/AshrafDesai/
 
+## Credits
+
+This portfolio was created with inspiration and guidance from Soumayjit Behera.
+
+- This `README.md` provides a comprehensive overview of your project, including installation steps, usage instructions, technologies used, and contact information, along with credits to Soumayjit Behera.
+
+
