@@ -43,10 +43,10 @@ Once the development server is running, open your browser and navigate to http:/
 
 ## Technologies Used
 
-## React.js: A JavaScript library for building user interfaces
-## HTML: The standard markup language for creating web pages
-## CSS: A style sheet language used for describing the presentation of a document written in HTML
-## JavaScript: A programming language that enables interactive web pages
+- React.js: A JavaScript library for building user interfaces
+- HTML: The standard markup language for creating web pages
+- CSS: A style sheet language used for describing the presentation of a document written in HTML
+- JavaScript: A programming language that enables interactive web pages
 
 ## Project Structure
 
