@@ -10,7 +10,6 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Contact](#contact)
 
 ## Introduction
@@ -47,40 +46,6 @@ Once the development server is running, open your browser and navigate to http:/
 - HTML: The standard markup language for creating web pages
 - CSS: A style sheet language used for describing the presentation of a document written in HTML
 - JavaScript: A programming language that enables interactive web pages
-
-## Project Structure
-
-Portfolio/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
-
-
-
-
-
-
-
-
-- public/: Contains static files such as index.html
-- src/: Contains the source code for the React application
-- assets/: Stores images, icons, and other assets
-- components/: Reusable UI components
-- pages/: Page components representing different sections of the portfolio
-- App.js: The main component that renders the entire application
-- index.js: The entry point for the React application
 
 ## Contact
 Feel free to reach out to me for any inquiries or collaborations:
