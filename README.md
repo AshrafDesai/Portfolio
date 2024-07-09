@@ -66,6 +66,14 @@ Portfolio/
 ├── README.md
 └── ...
 
+
+
+
+
+
+
+
+
 - public/: Contains static files such as index.html
 - src/: Contains the source code for the React application
 - assets/: Stores images, icons, and other assets
